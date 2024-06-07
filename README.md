@@ -35,7 +35,7 @@ To get started with the Serviliance security camera project, follow these steps.
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/serviliance.git
+    https://github.com/Sagardharaglkar/SurveillanceSecurityCamera-.git
     ```
 
 2. **Navigate to the project directory**
