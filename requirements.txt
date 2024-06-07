@@ -1,0 +1,11 @@
+smtplib
+email
+os
+email.mime.base
+email.mime.multipart
+email.mime.text
+email.encoders
+picamera
+time
+datetime
+RPi.GPIO
